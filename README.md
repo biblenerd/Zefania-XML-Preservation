@@ -5,7 +5,18 @@ A repo to store data and information related to Zefania XML for preservation pur
 **Zefania XML** is an XML-based markup language used for describing Bible texts. It enables applications that understand XML to read and process these texts. Zefania XML is available under the [GNU General Public License (GPL)](https://github.com/biblenerd/Zefania-XML-Preservation/blob/main/LICENSE). The format is designed to be simple for ease of sharing Bible texts. Zefania XML was originally created by the Theological Initiative Freiburg for the benefit of Bible software developers targeting German-speaking users.
 
 
-## Projects that use / support Zefania XML
+## Contents
+
+- [Projects that use or support Zefania XML](#projects-that-use-or-support-zefania-xml)
+- [XML Structure](#xml-structure)
+  - [Elements](#elements)
+  - [Attributes](#attributes)
+  - [Declaration](#declaration)
+  - [Example excerpt](#example-excerpt)
+- [Why this repo?](#why-this-repo)
+
+
+## Projects that use or support Zefania XML
 
 - [Zefania XML bible modules](https://sourceforge.net/projects/zefania-sharp/) &mdash; SourceForge repository contains over 100 Bibles in Zefania XML format. These files are backed up in this repo as well.
 
@@ -84,7 +95,7 @@ As with any XML document, Zefania XML requires a declaration and namespace refer
       <rights>Public Domain</rights>
     </INFORMATION>
 
-### Example Excerpt
+### Example excerpt
 
 Below is an excerpted example representing the first two verses of the Gospel of John 1:1–2 in the King James Version Bible along with appropriate declaration and bibliographic data: 
 
