@@ -7,43 +7,13 @@ A repo to store data and information related to Zefania XML for preservation pur
 
 ## Contents
 
-- [Projects that use or support Zefania XML](#projects-that-use-or-support-zefania-xml)
 - [XML Structure](#xml-structure)
   - [Elements](#elements)
   - [Attributes](#attributes)
   - [Declaration](#declaration)
   - [Example excerpt](#example-excerpt)
+- [Projects that use or support Zefania XML](#projects-that-use-or-support-zefania-xml)
 - [Why this repo?](#why-this-repo)
-
-
-## Projects that use or support Zefania XML
-
-- [Zefania XML bible modules](https://sourceforge.net/projects/zefania-sharp/) &mdash; SourceForge repository contains over 100 Bibles in Zefania XML format. These files are backed up in this repo as well.
-
-- **ZefaniaBible.com** &mdash; The main website for reading Bibles stored in Zefania XML format no longer appears to be available, but code for the project is still available on GitHub:
-  - [NothinRandom/Zefania-Bible](https://github.com/NothinRandom/Zefania-Bible) (last commit in 2013)
-  - [apachesep/Zefania-Bible](https://github.com/apachesep/Zefania-Bible) (last commit in 2015 and appears to have more plugins)
-
-- [Bible - Offline translations Android app](https://play.google.com/store/apps/details?id=sk.nosal.matej.bible)
-
-- [Die Online Bibel website](http://dieonlinebibel.de/)
-
-- [OpenAjax Bible Reader web app](https://www.mathertel.de/AJAXEngine/S03_AJAXControls/BiblePage.aspx#version=&book=&chapter=)
-
-- [Simple Bible Reader](https://trumpet-call.org/simplebiblereader/)
-
-- [The Word Bible Software](https://www.theword.net/index.php)
-
-- Church projection software tools that support Zefania XML:
-  - [Easyslides](https://www.easyslides.com/main/v5/bibles/)
-  - [OpenSong](http://www.opensong.org/home/download#bibles)
-  - [SongBeamer](https://www.songbeamer.com/software.htm)
-  - [Quelea](https://quelea.org/)
-  - [VerseVIEW](http://verseview.info/verseview/?p=951)
-
-- There are also tools that can convert Zefania XML into other formats:
-  - [schierlm/BibleMultiConverter](https://github.com/schierlm/BibleMultiConverter) (GitHub repo)
-  - [Freely-Given.org Bible Drop Box](https://freely-given.org/Software/BibleDropBox/)
   
 
 ## XML Structure
@@ -122,6 +92,36 @@ Below is an excerpted example representing the first two verses of the Gospel of
         </CHAPTER>
       </BIBLEBOOK>
     </XMLBIBLE>
+
+
+## Projects that use or support Zefania XML
+
+- [Zefania XML bible modules](https://sourceforge.net/projects/zefania-sharp/) &mdash; SourceForge repository contains over 100 Bibles in Zefania XML format. These files are backed up in this repo as well.
+
+- **ZefaniaBible.com** &mdash; The main website for reading Bibles stored in Zefania XML format no longer appears to be available, but code for the project is still available on GitHub:
+  - [NothinRandom/Zefania-Bible](https://github.com/NothinRandom/Zefania-Bible) (last commit in 2013)
+  - [apachesep/Zefania-Bible](https://github.com/apachesep/Zefania-Bible) (last commit in 2015 and appears to have more plugins)
+
+- [Bible - Offline translations Android app](https://play.google.com/store/apps/details?id=sk.nosal.matej.bible)
+
+- [Die Online Bibel website](http://dieonlinebibel.de/)
+
+- [OpenAjax Bible Reader web app](https://www.mathertel.de/AJAXEngine/S03_AJAXControls/BiblePage.aspx#version=&book=&chapter=)
+
+- [Simple Bible Reader](https://trumpet-call.org/simplebiblereader/)
+
+- [The Word Bible Software](https://www.theword.net/index.php)
+
+- Church projection software tools that support Zefania XML:
+  - [Easyslides](https://www.easyslides.com/main/v5/bibles/)
+  - [OpenSong](http://www.opensong.org/home/download#bibles)
+  - [SongBeamer](https://www.songbeamer.com/software.htm)
+  - [Quelea](https://quelea.org/)
+  - [VerseVIEW](http://verseview.info/verseview/?p=951)
+
+- There are also tools that can convert Zefania XML into other formats:
+  - [schierlm/BibleMultiConverter](https://github.com/schierlm/BibleMultiConverter) (GitHub repo)
+  - [Freely-Given.org Bible Drop Box](https://freely-given.org/Software/BibleDropBox/)
 
 
 ## Why this repo?
