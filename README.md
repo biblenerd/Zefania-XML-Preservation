@@ -104,6 +104,8 @@ Below is an excerpted example representing the first two verses of the Gospel of
   - [NothinRandom/Zefania-Bible](https://github.com/NothinRandom/Zefania-Bible) (last commit in 2013)
   - [apachesep/Zefania-Bible](https://github.com/apachesep/Zefania-Bible) (last commit in 2015 and appears to have more plugins)
 
+- [Tom Baccei's Zefania XML Box folder](https://app.box.com/s/et4h5qhkcf2itcp8nv22/folder/1920823123) &mdash; Box folder with downloadable Zefania XML modules, bibles, and dictionaries.
+
 - [Bible - Offline translations Android app](https://play.google.com/store/apps/details?id=sk.nosal.matej.bible)
 
 - [Die Online Bibel website](http://dieonlinebibel.de/)
