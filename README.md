@@ -104,6 +104,8 @@ Below is an excerpted example representing the first two verses of the Gospel of
   - [NothinRandom/Zefania-Bible](https://github.com/NothinRandom/Zefania-Bible) (last commit in 2013)
   - [apachesep/Zefania-Bible](https://github.com/apachesep/Zefania-Bible) (last commit in 2015 and appears to have more plugins)
 
+- [Zefania XML Bibles](https://github.com/kohelet-net-admin/zefania-xml-bibles) &mdash; Clone of [Zefania Bible Modules SourceForge Repository](https://sourceforge.net/projects/zefania-sharp/) with data in XML format (not inside zip files) and schema information.
+
 - [Tom Baccei's Zefania XML Box folder](https://app.box.com/s/et4h5qhkcf2itcp8nv22/folder/1920823123) &mdash; Box folder with downloadable Zefania XML modules, bibles, and dictionaries.
 
 - [Bible - Offline translations Android app](https://play.google.com/store/apps/details?id=sk.nosal.matej.bible)
@@ -115,6 +117,8 @@ Below is an excerpted example representing the first two verses of the Gospel of
 - [Simple Bible Reader](https://trumpet-call.org/simplebiblereader/)
 
 - [The Word Bible Software](https://www.theword.net/index.php)
+
+- [Bible CLI](https://github.com/strongs-de/bible-cli)
 
 - Church projection software tools that support Zefania XML:
   - [Easyslides](https://www.easyslides.com/main/v5/bibles/)
