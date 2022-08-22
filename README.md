@@ -18,7 +18,9 @@ A repo to store data and information related to Zefania XML for preservation pur
 
 ## XML Structure
 
-The domain associated with the XML schema documentation is no longer maintained, but the former content can be viewed via an [archived version](https://web.archive.org/web/20180730154206/http://bgfdb.de/zefaniaxml/bml/). Below are some of the basics of this XML format but this is by no means comprehensive documentation.
+The domain associated with the XML schema documentation is no longer maintained, but the former content can be viewed via an [archived version](https://web.archive.org/web/20180730154206/http://bgfdb.de/zefaniaxml/bml/). I was able to find a copy of the XSD file at the [BibleWorkPlace Zefania XML 2014 repo](https://sourceforge.net/p/bibleworkplace/zef2014/ci/master/tree/), and have also backed the XSD file and ISO codes in this repo.
+
+Below are some of the basics of this XML format but this is by no means comprehensive documentation.
 
 ### Elements
 
